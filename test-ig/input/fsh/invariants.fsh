@@ -1,4 +1,4 @@
-Invariants: edu-pat1
+Invariant: edu-pat1
 Description: "Personnummer med 12 siffor"
 Expression: "identifier
   .where(system = '$personnummer')
