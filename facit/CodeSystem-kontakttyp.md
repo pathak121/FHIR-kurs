@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:http://example.org/fhir/education/kursig/CodeSystem/kontakttyp | *Version*:0.1.0 |
-| Draft as of 2026-10-13 | *Computable Name*:KontakttypCS |
+| Draft as of 2026-11-02 | *Computable Name*:KontakttypCS |
 
  
 Typ av vårdkontakt (fiktivt kodsystem för utbildningen). 
@@ -32,7 +32,7 @@ Typ av vårdkontakt (fiktivt kodsystem för utbildningen).
   "title" : "Kontakttyp",
   "status" : "draft",
   "experimental" : true,
-  "date" : "2026-10-13T17:29:30+00:00",
+  "date" : "2026-11-02T06:20:34+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "Typ av vårdkontakt (fiktivt kodsystem för utbildningen).",
   "jurisdiction" : [{

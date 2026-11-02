@@ -9,7 +9,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:http://example.org/fhir/education/kursig/StructureDefinition/EducationEncounter | *Version*:0.1.0 |
-| Draft as of 2026-10-13 | *Computable Name*:EducationEncounter |
+| Draft as of 2026-11-02 | *Computable Name*:EducationEncounter |
 
  
 Profil för en vårdkontakt i FHIR-utbildningen. 
@@ -42,7 +42,7 @@ Other representations of profile: [CSV](StructureDefinition-EducationEncounter.c
   "name" : "EducationEncounter",
   "title" : "Education Encounter",
   "status" : "draft",
-  "date" : "2026-10-13T17:29:30+00:00",
+  "date" : "2026-11-02T06:20:34+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "Profil för en vårdkontakt i FHIR-utbildningen.",
   "jurisdiction" : [{

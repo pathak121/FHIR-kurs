@@ -107,7 +107,7 @@
   },
   {
     "url" : "http://terminology.hl7.org/CodeSystem/admit-source",
-    "version" : "1.0.1",
+    "version" : "2.0.0",
     "status" : "active",
     "name" : "AdmitSource",
     "title" : "Admit source",
@@ -211,7 +211,7 @@
     "oids" : ["2.16.840.1.113883.18.36"],
     "uses" : {
     },
-    "http://terminology.hl7.org/7.4.0/ValueSet-v2-0092.html" : "hl7VS-re-admissionIndicator"
+    "http://terminology.hl7.org/7.5.0/ValueSet-v2-0092.html" : "hl7VS-re-admissionIndicator"
   },
   {
     "url" : "http://terminology.hl7.org/CodeSystem/v2-0131",
@@ -248,7 +248,7 @@
     "uses" : {
     },
     "ValueSet-education-encounter-class.html" : "Klass av vårdkontakt",
-    "http://terminology.hl7.org/7.4.0/ValueSet-v3-ActEncounterCode.html" : "ActEncounterCode"
+    "http://terminology.hl7.org/7.5.0/ValueSet-v3-ActEncounterCode.html" : "ActEncounterCode"
   },
   {
     "url" : "http://terminology.hl7.org/CodeSystem/v3-ActPriority",
@@ -260,7 +260,7 @@
     "oids" : ["2.16.840.1.113883.5.7"],
     "uses" : {
     },
-    "http://terminology.hl7.org/7.4.0/ValueSet-v3-ActPriority.html" : "ActPriority"
+    "http://terminology.hl7.org/7.5.0/ValueSet-v3-ActPriority.html" : "ActPriority"
   },
   {
     "url" : "http://terminology.hl7.org/CodeSystem/v3-EncounterSpecialCourtesy",
