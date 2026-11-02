@@ -8,7 +8,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:http://example.org/fhir/education/kursig/ImplementationGuide/fhir.education.kursig | *Version*:0.1.0 |
-| Draft as of 2026-10-17 | *Computable Name*:FhirEducationKursIG |
+| Draft as of 2026-11-02 | *Computable Name*:FhirEducationKursIG |
 
 Det här är den Implementation Guide (IG) som vi bygger upp under FHIR-utbildningen.
 
@@ -47,7 +47,7 @@ Detta är en R4 IG. Inga av funktionerna den använder har ändrats i R4B, så d
   "name" : "FhirEducationKursIG",
   "title" : "FHIR-utbildning – Kurs-IG",
   "status" : "draft",
-  "date" : "2026-10-17T12:59:36+00:00",
+  "date" : "2026-11-02T06:15:37+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "En liten Implementation Guide som byggs upp steg för steg under FHIR-utbildningen.",
   "jurisdiction" : [{
@@ -68,7 +68,7 @@ Detta är en R4 IG. Inga av funktionerna den använder har ändrats i R4B, så d
     }],
     "uri" : "http://terminology.hl7.org/ImplementationGuide/hl7.terminology",
     "packageId" : "hl7.terminology.r4",
-    "version" : "7.4.0"
+    "version" : "7.5.0"
   },
   {
     "id" : "hl7ext",
@@ -78,7 +78,7 @@ Detta är en R4 IG. Inga av funktionerna den använder har ändrats i R4B, så d
     }],
     "uri" : "http://hl7.org/fhir/extensions/ImplementationGuide/hl7.fhir.uv.extensions",
     "packageId" : "hl7.fhir.uv.extensions.r4",
-    "version" : "5.3.0"
+    "version" : "5.4.0"
   }],
   "definition" : {
     "extension" : [{
